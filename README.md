@@ -9,4 +9,9 @@ Mensajes "Commit"
    * Frontend.
    * Solucion Error.
 - El enviar los commits pueden empezar junto a un Emoji:
-   * :smile: ":smile:" 
+   * :art: `:art:` -> Para realizar cambios visuales
+   * :bug: `:bug:` -> Para arreglar errores
+   * :recycle: `:recycle:` -> Para limpiar codigo 
+   * :white_check_mark: `:white_check_mark:` -> Para confirmar arreglo de error
+   * :book: `:book:` -> Para escribir documentación
+   * :laughing: `:laughing:` -> Para agregar cambio completado y funcionando
