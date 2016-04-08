@@ -9,4 +9,4 @@ Mensajes "Commit"
    * Frontend.
    * Solucion Error.
 - El enviar los commits pueden empezar junto a un Emoji:
-   * :smile: ":smile" 
+   * :smile: ":smile:" 
