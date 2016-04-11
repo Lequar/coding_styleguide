@@ -1,6 +1,11 @@
 # Lequar Guia de Estilo en Codificación.
 Esta es la forma en que deberíamos escribir código.
 
+## Generalidades
+
+* Usar comillas sencillas '' para las cadenas de texto.
+* Utilizar CamelCase como modo de creacion de variables, clases y funciones. (https://es.wikipedia.org/wiki/CamelCase)
+
 ### Mensajes "Commit"
 
 * Para los mensajes de "commit" importante escribir una cabecera entendible, junto a una pequeña descripcion, Ejemplo: "Backend: modificacion 'archivo.php' se agregaron 12 clases..."
