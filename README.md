@@ -52,7 +52,7 @@ Para una mayor legibilidad, hemos decidio incluir de una manera organizada y fac
 
 > Mal ejemplo
 
-```php
+```html
 <div class="header">
     <div class="container">
         <?php 
@@ -67,7 +67,7 @@ Para una mayor legibilidad, hemos decidio incluir de una manera organizada y fac
 
 > Buen ejemplo
 
-```php
+```html
 <div class="header">
     <div class="container">
         <?php if ($i = 0) : ?>
